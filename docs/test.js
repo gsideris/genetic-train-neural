@@ -110,8 +110,8 @@ convert_map_to_colors = function(wm) {
 stages = {
   "010": {
     "finish": {
-      "y": 10,
-      "x": 10
+      "y": 9,
+      "x": 9
     },
     "name": "Desert",
     "data": ["          ", "          ", "          ", "          ", "          ", "          ", "          ", "          ", "          ", "          "],
